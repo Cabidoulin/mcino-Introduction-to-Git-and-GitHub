@@ -1,0 +1,5 @@
+ git branch -vv
+  bug-fix-revert 3b8ff9f Update forked-repo
+  bug-fix-typo   3b8ff9f Update forked-repo
+  but-fix-typo   e7e6eb4 [origin/but-fix-typo] Cambio pie de pagina README.md
+* main           3b8ff9f [origin/main] Update forked-repo
